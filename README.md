@@ -1,4 +1,4 @@
-# Technical_Internship_Program
+# TIP - Technical_Internship_Program
 
 WEB SCRAPING USING PYTHON
 
