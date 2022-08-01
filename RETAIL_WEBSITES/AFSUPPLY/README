@@ -1,0 +1,4 @@
+Website link : https://www.afsupply.com/
+
+sitemap_urls = 'https://www.afsupply.com/sitemap_1.xml', 'https://www.afsupply.com/sitemap_2.xml', 'https://www.afsupply.com/sitemap_3.xml'
+
