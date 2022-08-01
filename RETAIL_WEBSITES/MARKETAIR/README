@@ -1,0 +1,12 @@
+Website link : https://www.marketair.com/
+
+start_urls = [
+                  'https://www.marketair.com/shop/acustiflex.html', 'https://www.marketair.com/shop/deflectair.html',
+                  'https://www.marketair.com/shop/drainhide.html', 'https://www.marketair.com/shop/drainmate.html',
+                  'https://www.marketair.com/shop/dripshield.html', 'https://www.marketair.com/shop/dss-switch.html',
+                  'https://www.marketair.com/shop/easybend.html', 'https://www.marketair.com/shop/lineport.html',
+                  'https://www.marketair.com/shop/perfect-pitch.html', 'https://www.marketair.com/shop/pipe-prop-pipe-support.html',
+                  'https://www.marketair.com/shop/reversaline.html', 'https://www.marketair.com/shop/roughinbox.html',
+                  'https://www.marketair.com/shop/snapfix.html', 'https://www.marketair.com/shop/snowshield.html',
+                  'https://www.marketair.com/shop/supersleeve.html', 'https://www.marketair.com/shop/valveshield.html'
+              ]
