@@ -1,0 +1,9 @@
+Website link : https://www.sustainablesupply.com/
+
+start_urls = [
+        'https://www.sustainablesupply.com/collections/restroom-supplies#/perpage:48/sort:title:asc',
+        'https://www.sustainablesupply.com/collections/electric-motors#/perpage:48/sort:title:asc',
+        'https://www.sustainablesupply.com/collections/hvac-r-supplies#/perpage:48/sort:title:asc',
+        'https://www.sustainablesupply.com/collections/plumbing-supplies#/perpage:48/sort:title:asc',
+        'https://www.sustainablesupply.com/collections/safety-supplies#/perpage:48/sort:title:asc'
+    ]
