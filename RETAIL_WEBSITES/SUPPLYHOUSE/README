@@ -1,0 +1,6 @@
+Website link : https://www.supplyhouse.com/
+
+sitemap_urls = [
+                        'https://www.supplyhouse.com/sitemap_products_1.xml',
+                        'https://www.supplyhouse.com/sitemap_products_2.xml'
+                    ]
