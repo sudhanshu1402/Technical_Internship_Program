@@ -1,0 +1,3 @@
+The folder RETAIL_WEBSITES contains some of the retail websites that was scraped durig the internship period. 
+
+The main task for scraping the retail websites was to get the product details and save them in mongodb or csv file format
